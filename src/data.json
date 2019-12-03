@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/images/beagle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/black-lab.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/chow.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/corgi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/cow.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/images/german.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/images/golden.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/images/husky.webp",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/images/lab.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/images/piggy.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/images/shark.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/images/yoda.jpeg",
+    "clicked": false
+  }
+]
